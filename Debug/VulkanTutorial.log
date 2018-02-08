@@ -1,0 +1,4 @@
+﻿  main.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  VulkanTutorial.vcxproj -> C:\Users\DwarfKhan\Documents\work\Winter2018Thursday\CGProgramming\VulkanTutorial\Debug\VulkanTutorial.exe
+  VulkanTutorial.vcxproj -> C:\Users\DwarfKhan\Documents\work\Winter2018Thursday\CGProgramming\VulkanTutorial\Debug\VulkanTutorial.pdb (Partial PDB)
